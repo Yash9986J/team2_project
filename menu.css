@@ -65,3 +65,10 @@ dd {
     background-color: #eef8fb;
 }
 
+.drinks h2{
+    color: #0077b6;
+}
+
+.drinks dt {
+    border-left: 4px solid #0077b6;
+}
