@@ -10,3 +10,19 @@ input[type="number"] {
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     appearance: textfield; /* removes up/down buttons in some browsers */
 }
+
+.appetizers input[type="number"] {
+    border: 2px solid #f4d35e;
+}
+
+.maincourse input[type="number"] {
+    border: 2px solid #e63946;
+}
+
+.dessert input[type="number"] {
+    border: 2px solid #f7a9a8;
+}
+
+.drinks input[type="number"] {
+    border: 2px solid #0077b6;
+}
