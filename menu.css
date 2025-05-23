@@ -36,3 +36,15 @@ dd {
 .appetizers dt {
     border-left: 4px solid #f4d35e;
 }
+
+.maincourse {
+    background-color: #fff3f2;
+}
+
+.maincourse h2{
+    color: #e63946;
+}
+
+.maincourse dt {
+    border-left: 4px solid #e63946;
+}
