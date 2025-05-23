@@ -24,3 +24,15 @@ dd {
     border-radius: 5px;
     padding: 0.8em 1em 0.8em 1.5em;
 }
+
+.appetizers {
+    background-color: #fff9f0;
+}
+
+.appetizers h2 {
+    color: #f4d35e;
+}
+
+.appetizers dt {
+    border-left: 4px solid #f4d35e;
+}
