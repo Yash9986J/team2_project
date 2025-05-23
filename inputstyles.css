@@ -1,0 +1,12 @@
+input[type="number"] {
+    width: 60px;
+    padding: 0.4em 0.6em;
+    font-size: 18px;
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 6px;
+    background-color: #fff9f0;
+    color: #1d1d1d;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    appearance: textfield; /* removes up/down buttons in some browsers */
+}
