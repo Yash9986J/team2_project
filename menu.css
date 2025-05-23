@@ -48,3 +48,20 @@ dd {
 .maincourse dt {
     border-left: 4px solid #e63946;
 }
+
+.dessert {
+    background-color: #fff5f7;
+}
+
+.dessert h2{
+    color: #f7a9a8;
+}
+
+.dessert dt{
+    border-left: 4px solid #f7a9a8;
+}
+
+.drinks {
+    background-color: #eef8fb;
+}
+
