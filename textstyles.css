@@ -14,3 +14,10 @@ h1 {
     text-shadow: 4px 4px 7px rgba(0,0,0,0.4);
     color: #e63946;
   }
+
+h2 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 250%;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
