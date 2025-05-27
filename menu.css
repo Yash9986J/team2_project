@@ -1,0 +1,74 @@
+dt {
+    max-width: 500px;
+    margin-bottom: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    color: #1d1d1d;
+    line-height: 1.5;
+    background-color: #fff9f0;
+    border-left: 4px solid #f4d35e;
+    border-radius: 5px;
+    padding: 0.8em 1em 0.8em 1.5em;
+    box-shadow: 4px 4px 8px rgba(0,0,0,0.5);
+}
+
+dd {
+    max-width: 500px;
+    margin-bottom: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    color: #1d1d1d;
+    line-height: 1.5;
+    background-color: #fff9f0;
+    border-left: 4px solid black;
+    border-radius: 5px;
+    padding: 0.8em 1em 0.8em 1.5em;
+}
+
+.appetizers {
+    background-color: #fff9f0;
+}
+
+.appetizers h2 {
+    color: #f4d35e;
+}
+
+.appetizers dt {
+    border-left: 4px solid #f4d35e;
+}
+
+.maincourse {
+    background-color: #fff3f2;
+}
+
+.maincourse h2{
+    color: #e63946;
+}
+
+.maincourse dt {
+    border-left: 4px solid #e63946;
+}
+
+.dessert {
+    background-color: #fff5f7;
+}
+
+.dessert h2{
+    color: #f7a9a8;
+}
+
+.dessert dt{
+    border-left: 4px solid #f7a9a8;
+}
+
+.drinks {
+    background-color: #eef8fb;
+}
+
+.drinks h2{
+    color: #0077b6;
+}
+
+.drinks dt {
+    border-left: 4px solid #0077b6;
+}
